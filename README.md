@@ -1,6 +1,7 @@
 # M-L-DETECTOR
 - Create Your Own Motion Light Detector
-![](ESP32LED_.png) 
+![](M-L-DETECTOR.png) 
+
 
 ## Files
 
